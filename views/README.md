@@ -1,2 +1,0 @@
-# mini-whatsapp
-mini-whatsapp
